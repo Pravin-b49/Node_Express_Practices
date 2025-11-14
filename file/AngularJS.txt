@@ -1,0 +1,11 @@
+Angular is a framework for building client applications in HTML and TypeScript.
+
+What is Angular?
+Angular is a full-featured front-end framework for building web applications.
+
+Built with TypeScript, 
+Uses components and templates, 
+Includes routing, forms, HTTP, and dependency injection, 
+Supports standalone APIs (no NgModules needed), 
+Works great for single-page applications (SPAs).
+Angular compiles your templates into efficient JavaScript and updates the DOM when your component state changes.
